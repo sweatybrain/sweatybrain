@@ -1,6 +1,6 @@
 ### Alô 💡
 
-<!--  Me chamo danilo, trampo numa cozinha(!?), Faz um tempo que ando namorando
+Me chamo danilo, trampo numa cozinha(!?), Faz um tempo que ando namorando
  algumas linguagens de programação mais populares como javascript! e ando tentando
  aprender a programar!
 
@@ -12,4 +12,4 @@ automação de máquinas, robótica e inteligência artificial, pretendo em cert
 ponto construir peixes robôs pra por no meu aquário.
 
 aqui você não vai encontrar nada muito chique por enquanto, mas estou no caminho
-pra virar um pro!-->
+pra virar um pro!
