@@ -1,4 +1,4 @@
-### Alô �💡
+### Alô 💡
 
 <!--  Me chamo danilo, trampo numa cozinha(!?), Faz um tempo que ando namorando
  algumas linguagens de programação mais populares como javascript! e ando tentando
