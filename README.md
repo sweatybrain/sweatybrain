@@ -1,16 +1,15 @@
-### Hi there 👋
+### Alô �💡
 
-<!--
-**sweatybrain/sweatybrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  Me chamo danilo, trampo numa cozinha(!?), Faz um tempo que ando namorando
+ algumas linguagens de programação mais populares como javascript! e ando tentando
+ aprender a programar!
 
-Here are some ideas to get you started:
+conheço um tico de html, css, js.....react 
+e o básico de python pra análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+curto games, e atividades ao ar livre. Não entendo a fundo, mas acho o máximo
+automação de máquinas, robótica e inteligência artificial, pretendo em certo
+ponto construir peixes robôs pra por no meu aquário.
+
+aqui você não vai encontrar nada muito chique por enquanto, mas estou no caminho
+pra virar um pro!-->
