@@ -4,8 +4,8 @@ Me chamo danilo, trampei por anos numa cozinha. Faz um tempo que ando namorando
  algumas linguagens de programação mais populares como javascript! e ando tentando
  aprender a programar!
 
-conheço um tico de html, css, js.....react 
-e o básico de python pra análise de dados.
+conheço html, e ando meio que obcecado por css. Em processo ainda aprendendo
+js.....react e o básico de python pra análise de dados.
 
 curto games, e atividades ao ar livre. Não entendo a fundo, mas acho o máximo
 automação de máquinas, robótica e inteligência artificial, pretendo em algum
