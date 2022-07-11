@@ -4,8 +4,15 @@ Me chamo danilo, trampei por anos numa cozinha. Faz um tempo que ando namorando
  algumas linguagens de programação mais populares como javascript! e ando tentando
  aprender a programar!
 
-conheço html, e ando meio que obcecado por css. Em processo ainda aprendendo
-js.....react e o básico de python pra análise de dados.
+conheço: 
+HTML (sei usar todas as tags)
+CSS (ando um pouco obcecado por css)
+JAVASCRIPT (ainda em processo mas sei manipular dom)
+PYTHON (vejo tutoriais pra fazer análise de dados)
+ILLUSTRATOR (manjo demais pra fazer artes, ícones, e até protótipos)
+PHOTOSHOP (sei editar fotos básiquete)
+XD (manjo pra fazer protótipos e até fluxogramas)
+FIGMA (manjo igual o xd e na verdade prefiro mil vezes o figma)
 
 curto games, e atividades ao ar livre. Não entendo a fundo, mas acho o máximo
 automação de máquinas, robótica e inteligência artificial, pretendo em algum
