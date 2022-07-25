@@ -11,10 +11,9 @@ potencial como linguagem para fins científicos <br>
 do DOM, e sei do básico ao intermediário dos frameworks<br>
 mais populares (react, angular, vue).
 
-curto games, e atividades ao ar livre. Amo design systems e<br>
-data visualization. Não entendo a fundo, mas acho o máximo<br>
-automação de máquinas, robótica e inteligência artificial,<br>
-pretendo em algum momento construir peixes robôs pra por no meu aquário.
+Amo design systems edata visualization.<br>
+Não entendo a fundo, mas acho o máximo<br>
+automação de máquinas e AI.
 
 aqui você não vai encontrar nada muito chique por enquanto,<br> mas estou no caminho
 pra virar um pro!
